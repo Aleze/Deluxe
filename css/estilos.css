@@ -126,7 +126,12 @@ nav ul li a:hover{
 #contenido .item .imagen_item img
 {
 	display: block;
-	padding-left: 2em;
+	text-align: center;
+	max-width: 100%;
+}
+#contenido .item .item_imagen img
+{
+	text-align: center;
 }
 #contenido .item .titulo_revista
 {
